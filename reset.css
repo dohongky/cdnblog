@@ -1,4 +1,4 @@
-  .widget-item-control
+  .widget-item-control,.navbar.no-items
       {
         display:none;
       }
